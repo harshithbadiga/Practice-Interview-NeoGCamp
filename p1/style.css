@@ -22,3 +22,9 @@
     display: block;
 
 }
+
+#output{
+    font-size: 2rem;
+    font-weight: bolder;
+    
+}
