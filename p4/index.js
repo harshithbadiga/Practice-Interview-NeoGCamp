@@ -1,6 +1,6 @@
-var userInput = document.getElementById("#user-txt")
-var systemOut = document.getElementById("#msg")
-var checkBtn = document.getElementById("#check-btn")
+var userInput = document.getElementById("user-txt")
+var systemOut = document.getElementById("msg")
+var checkBtn = document.getElementById("check-btn")
 
 function checkPassword(){
 
